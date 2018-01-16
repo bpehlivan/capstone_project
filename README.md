@@ -33,4 +33,4 @@ I have used "Multilayer Perceptron Classifier" algorithm  to generate a model. I
 
 <b>Notes</b>
 
-You can checkout the python code i added and project report for further information.
+You can checkout the python code that i added and project report for further information.
